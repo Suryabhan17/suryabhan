@@ -4,9 +4,9 @@ public class add1 {
   }
   
 }
-public class add1 {
+ class add2{
   public static void main(String[] args) {
-    System.out.println("suryabhan Singh12245");
+    System.out.println("suryabhan Singh1224545");
+
   }
-  
 }
