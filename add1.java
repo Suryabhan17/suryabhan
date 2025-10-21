@@ -4,7 +4,7 @@ public class add1 {
   }
   
 }
- class add2{
+ class add3 {
   public static void main(String[] args) {
     System.out.println("suryabhan Singh1224545");
 
