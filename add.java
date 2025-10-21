@@ -2,12 +2,7 @@ class add {
   public static void main(String args[]){
     System.out.println("Surya");
 
-    System.out.println("ahgdwhjdfd45845df");
-    System.out.println("suryabhan");
-
-
-    
-
+    System.out.println("ahgdwhjdfd45845df458");
       
     
   }
