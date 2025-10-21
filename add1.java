@@ -9,7 +9,7 @@ public class add1 {
     System.out.println("suryabhan Singh1224545489");
   }
 }
- class add3 {
+ class add4 {
   public static void main(String[] args) {
     System.out.println("suryabhan Singh1224545489N1");
   }
